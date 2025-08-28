@@ -197,12 +197,12 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Tekisky Mart",
+    name: "Fasco",
     description:
-      "Tekisky Mart is a web-based platform that allows users to search, explore, and purchase a wide range of products from various providers, offering a seamless and efficient shopping experience.",
+      "Fasco is a web-based platform that allows users to search, explore, and purchase a wide range of products from various providers, offering a seamless and efficient shopping experience.",
     tags: [
       {
-        name: "react",
+        name: "JavaScript",
         color: "blue-text-gradient",
       },
       {
@@ -210,38 +210,38 @@ const projects = [
         color: "white-text-gradient",
       },
       {
-        name: "node",
+        name: "Figma",
         color: "pink-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Swiper.js",
         color: "green-text-gradient",
       },
  
     ],
     image: project2,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/mabdullah525",
   },
   {
-    name: "GearXpert",
+    name: "Gray Scale",
     description:
-      "GearXpert is your ultimate destination for premium auto parts and accessories, Whether you're an automobile enthusiast or a professional, find everything you need to upgrade, repair.",
+      "Grayscale provides powerful digital solutions designed to help individuals and businesses thrive in the modern world. From creating engaging designs to building responsive and user-friendly websites",
     tags: [
       {
-        name: "react",
+        name: "Bootstrap",
         color: "blue-text-gradient",
       },
       {
-        name: "emailJs",
+        name: "HTML & CSS",
         color: "green-text-gradient",
       },
       {
-        name: "Gsap",
+        name: "Swiper.js",
         color: "pink-text-gradient",
       },
     ],
     image: gearXpert,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/mabdullah525",
   },
   {
     name: "Powerful Digital Solution",
@@ -262,7 +262,7 @@ const projects = [
       },
     ],
     image: project3,
-    source_code_link: "https://github.com/mabdullah525/Powerful-Digital-Solution",
+    source_code_link: "https://github.com/mabdullah525",
   },
 ];
 
