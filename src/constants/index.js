@@ -154,16 +154,16 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Full-Stack Developer",
+    title: "Frontend Developer",
     company_name: "Tekisky",
     icon: tekisky,
     iconBg: "#383E56",
-    date: "Jan 2023 - present",
+    date: "Jan 2024 - present",
     points: [
-      "Developing and maintaining web applications using MERN technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developing and maintaining responsive web applications using React.js, Tailwind CSS, and modern frontend tools.",
+      "Collaborating with designers and product managers to deliver user-friendly, high-quality products.",
+      "Implementing pixel-perfect UI and ensuring smooth performance across different devices and browsers.",
+      "Participating in code reviews and writing clean, maintainable code.",
     ],
   },
 ];
