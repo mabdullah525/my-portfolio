@@ -123,26 +123,26 @@ const technologies = [
     name: "Material Ui",
     icon: mui,
   },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "Express Js",
-    icon: express,
-  },
-  {
-    name: "AWS",
-    icon: aws,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "MySql",
-    icon: mysql,
-  },
+  // {
+  //   name: "Node JS",
+  //   icon: nodejs,
+  // },
+  // {
+  //   name: "Express Js",
+  //   icon: express,
+  // },
+  // {
+  //   name: "AWS",
+  //   icon: aws,
+  // },
+  // {
+  //   name: "MongoDB",
+  //   icon: mongodb,
+  // },
+  // {
+  //   name: "MySql",
+  //   icon: mysql,
+  // },
 
   {
     name: "git",
