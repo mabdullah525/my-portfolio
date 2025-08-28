@@ -244,29 +244,25 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "GoGroove-Ecommerce",
+    name: "Powerful Digital Solution",
     description:
-      "Go-Groove is your ultimate destination for premium products across various categories. Whether you're a savvy shopper or a professional, enhance, and simplify your lifestyle—all in one place!",
+      "Delivering innovative and modern web solutions that help businesses and individuals enhance their online presence, streamline workflows, and achieve their goals with efficiency and creativity.",
     tags: [
       {
-        name: "react",
+        name: "Bootstrap",
         color: "blue-text-gradient",
       },
       {
-        name: "express",
+        name: "HTML & CSS",
         color: "white-text-gradient",
       },
       {
-        name: "node",
-        color: "green-text-gradient",
-      },
-      {
-        name: "mongodb",
+        name: "JavaScript",
         color: "green-text-gradient",
       },
     ],
     image: project3,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/mabdullah525/Powerful-Digital-Solution",
   },
 ];
 
