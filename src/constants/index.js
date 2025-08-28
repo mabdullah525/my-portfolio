@@ -171,7 +171,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Huzaif proved me wrong.",
+      "After Abdullah optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "MD Mustaqeem",
     designation: "Ecommerce",
     company: "QuickMart",
@@ -179,19 +179,19 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Huzaif does.",
-    name: "Abdul Raheman",
-    designation: "Ecommerce Business",
-    company: "justbuyz",
+      "Client feedback coming soon… Excited to share what clients say about working with me — stay tuned!",
+    name: "Startup Founder",
+    designation: "Startup Founder",
+    company: "none",
     image: secondTestimonial,
   },
   {
     testimonial:
-      "After Huzaif optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "James Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: thirdTestimonial,
+      "Abdullah delivers clean and modern web designs to client needs.Always focused on user experience.",
+    name: "Startup Founder",
+    designation: "Startup Founder",
+    company: "none",
+    image: secondTestimonial,
   },
 ];
 
